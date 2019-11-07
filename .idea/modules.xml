@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adimoocservice/ad-common/ad-common.iml" filepath="$PROJECT_DIR$/adimoocservice/ad-common/ad-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad-eureka/ad-eureka.iml" filepath="$PROJECT_DIR$/ad-eureka/ad-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adimoocservice/ad-sponsor/ad-sponsor.iml" filepath="$PROJECT_DIR$/adimoocservice/ad-sponsor/ad-sponsor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adgetway/adgetway.iml" filepath="$PROJECT_DIR$/adgetway/adgetway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adimoocservice/adimoocservice.iml" filepath="$PROJECT_DIR$/adimoocservice/adimoocservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-ad-spring-cloud.iml" filepath="$PROJECT_DIR$/imooc-ad-spring-cloud.iml" />
+    </modules>
+  </component>
+</project>
